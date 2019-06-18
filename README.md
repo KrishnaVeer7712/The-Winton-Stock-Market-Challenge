@@ -1,4 +1,4 @@
-# The-Winton-Stock-Market-Challenge
+# The Winton Stock Market Challenge
 
 The purpose of this project is to take on the Winton Stock Market Challenge on Kaggle sponsored by Winton Capital. The aim of this challenge is to predict intra and end of the day returns using already given historical stock performance and a host of masked features.
 
